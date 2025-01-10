@@ -62,6 +62,6 @@ Leverage the apify-client NPM package for Node.js or the apify-client PyPI packa
 If you have any technical feedback or encountered a bug while using the YouTube Video to Transcript tool, please create an issue on the actor's dedicated ["Issues"](https://console.apify.com/actors/ACirYOwWR3EeEmcqc/issues) tab in the Apify Console. We value your input and appreciate your help in improving our services.
 
 ---
- [https://apify.com/scrapingxpert/youtube-video-to-transcript]([https://docs.apify.com/api/v2](https://apify.com/scrapingxpert/youtube-video-to-transcript))
+ [apify.com/scrapingxpert/youtube-video-to-transcript](https://apify.com/scrapingxpert/youtube-video-to-transcript)
 
 
