@@ -1,15 +1,15 @@
-### [YouTube Video to Transcript](https://console.apify.com/actors/ACirYOwWR3EeEmcqc/information/latest/readme) 🧲
+## [YouTube Video to Transcript](https://console.apify.com/actors/ACirYOwWR3EeEmcqc/information/latest/readme) 🧲
 
 #### Welcome to YouTube Video to Transcript 🎉
 
 ### ✨ About This Actor ✨
-The YouTube Video to Transcript tool is designed to automatically fetch transcripts from YouTube videos. This tool supports multiple URLs and retrieves captions from YouTube, making it ideal for video content analysis, subtitle generation, or transcription needs. Customize with headers and cookies for accuracy.
+The YouTube Video to Transcript tool is designed to automatically fetch transcripts from YouTube videos. This tool supports multiple URLs and retrieves captions from Tactiq or YouTubeTranscript.com, making it ideal for video content analysis, subtitle generation, or transcription needs. Customize with headers and cookies for accuracy.
 
 ## ✨ Key Features ✨
 
 1. **Automatic Transcript Retrieval**: Fetches transcripts from YouTube videos automatically.
 2. **Multiple URL Support**: Handles multiple video URLs at once.
-3. **Source Options**: Retrieves captions from YouTube.
+3. **Source Options**: Retrieves captions from Tactiq or YouTubeTranscript.com.
 4. **Customization**: Allows customization with headers and cookies for improved accuracy.
 
 ## ✨ How to Use It ✨📍
@@ -20,7 +20,7 @@ To use this scraper tool, follow these steps:
 
 First, navigate to the YouTube video you want to transcribe.
 
-1. Copy the URL of the YouTube video from your browser's address bar.
+1. Copy the URL(can be a list) of the YouTube video from your browser's address bar.
 
 ### 📌 Step 2
 
@@ -62,6 +62,5 @@ Leverage the apify-client NPM package for Node.js or the apify-client PyPI packa
 If you have any technical feedback or encountered a bug while using the YouTube Video to Transcript tool, please create an issue on the actor's dedicated ["Issues"](https://console.apify.com/actors/ACirYOwWR3EeEmcqc/issues) tab in the Apify Console. We value your input and appreciate your help in improving our services.
 
 ---
- [apify.com/scrapingxpert/youtube-video-to-transcript](https://apify.com/scrapingxpert/youtube-video-to-transcript)
 
-
+This description includes relevant keywords such as "YouTube," "video," "transcript," "scraper," and "data extraction" to help improve search engine ranking. Additionally, it highlights the key features and benefits of the tool to attract potential users.
